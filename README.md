@@ -10,8 +10,7 @@ Hi! I have made Scientific Calculator which is very helpful some times. If you w
 
 The project is for the educational purpose that if u want your extension to show up on chrome tool bar than u can make it too!
 
-# How to create google chrome extension:
-
+# How to create google chrome extension:heart
 ### Read the article
 
 Blog : [Create a Chrome Extension with HTML, CSS, and JavaScript](https://levelup.gitconnected.com/make-your-first-chrome-extension-with-javascript-7aa383db2b03)
@@ -26,11 +25,14 @@ Blog : [Create a Chrome Extension with HTML, CSS, and JavaScript](https://levelu
 - Go to Chrome Extension Webstore
 - Go to Extention manager `chrome://extensions/` in chrome
 - Load the folder into the chrome
-  **BOOM! YOU ARE NOW LIVE**
+
+-  **BOOM! YOU ARE NOW LIVE**
 
 # Licence
 
 MIT LICENCE
 Read `Licence` document for more details
 
-# Bye
+# Bye! 👋
+
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
